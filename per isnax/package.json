@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "hastebin": "^0.2.1",
+    "minecraft-server-util": "^3.4.2",
+    "moment": "^2.29.3"
+  }
+}
